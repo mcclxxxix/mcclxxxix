@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mcclxxxix
+- 👋 Hi, I’m @McClurkin
 - 👀 I’m interested in deep learning and proprietary industry focused crowd wisdom decison tree modeling
-- 🌱 I’m currently learning DAGitty
+- 🌱 I’m currently learning a graduate researcher at the University of Louisville Speed Scientific School
+- 🌱 Department of Bioengineering AI in Medicine program.
 - 💞️ I’m looking to collaborate on kaggle retro causality and chaos theory proofs
-- 📫 Twitter: @BronsonMack
+  
 
 <!---
 mcclxxxix/mcclxxxix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
