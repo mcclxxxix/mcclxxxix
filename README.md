@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning a graduate researcher at the University of Louisville Speed Scientific School
 - 🌱 Department of Bioengineering AI in Medicine program.
 - 💞️ I’m looking to collaborate on kaggle retro causality and chaos theory proofs
+- Please read and discuss my blog https://specialtyconsultants.co/
   
 
 <!---
