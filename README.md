@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McClurkin
 - 👀 I’m interested in deep learning and proprietary industry focused crowd wisdom decison tree modeling
-- 🌱 I’m currently learning a graduate researcher at the University of Louisville Speed Scientific School
+- 🌱 I’m a graduate researcher at the University of Louisville Speed Scientific School
 - 🌱 Department of Bioengineering AI in Medicine program.
 - 💞️ I’m looking to collaborate on kaggle retro causality and chaos theory proofs
 - Please read and discuss my blog https://specialtyconsultants.co/
